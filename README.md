@@ -12,14 +12,14 @@ Follow the instructions below to run each exercise in Flutter:
   ```
 - **Exercise 2**  
     ```bash
-    flutter run -t lib/EX-2/main.dart
+    flutter run -t lib/EX-2/ex_2_step_1_start.dart
     ```
 - **Exercise 3**  
     ```bash
-    flutter run -t lib/EX-3/main.dart
+    flutter run -t lib/EX-3/ex_3_start.dart
     ```
 - **Exercise 4**  
     ```bash
-    flutter run -t lib/EX-4/main.dart
+    flutter run -t lib/EX-4/ex_4.dart
     ```
 
