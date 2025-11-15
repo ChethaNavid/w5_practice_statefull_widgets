@@ -1,7 +1,5 @@
 # w5_practice_statefull_widgets
 
-# w5_practice_assets_and_stateless_widgets
-
 ## Getting Started
 
 Follow the instructions below to run each exercise in Flutter:
