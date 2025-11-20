@@ -34,7 +34,7 @@ class _ImageViewerState extends State<ImageViewer> {
 
   void previousImage() {
     setState(() {
-      index = (index - 1 + images.length) % images.length;
+      index = (index - 1) % images.length;
     });
   }
 
